@@ -4,7 +4,7 @@ Un lenguaje de programación imperativo es en el cual programamos como la comput
 mientras que en un declarativo solo damos las instrucciones para realizar tareas ya predefinidas.
 
 Como por ejemplo en un lenguaje imperativo para buscar números mayores a 0 en una lista tenemos que programar
-mediante condicionales, bucles y operadores, mientras que en uno declarativo solo introducimos un solo comando, función, evento que realiza esa acción.
+mediante condicionales, bucles y operadores, mientras que en uno declarativo solo introducimos un solo comando, función, o  evento que realiza esa acción.
  
 
  
